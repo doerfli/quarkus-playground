@@ -1,0 +1,14 @@
+{
+    "microprofile.tools.validation.unknown.excluded": [
+        "*/mp-rest/providers/*/priority",
+        "mp.openapi.schema.*",
+        "kafka-streams.*",
+        "camel.*",
+        "quarkus.datasource.\"greeting\".*",
+        "quarkus.flyway.\"greeting\".*",
+        "quarkus.hibernate-orm.\"greeting\".*",
+        "quarkus.datasource.\"person\".*",
+        "quarkus.flyway.\"person\".*",
+        "quarkus.hibernate-orm.\"person\".*"
+    ]
+}
