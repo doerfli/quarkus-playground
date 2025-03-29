@@ -1,5 +1,10 @@
 # quarkus-playground
 
+Two resources to test how the Quarkus Framework works when using two different datasources. 
+Currently datasources are set to use the same postgresql db, but separate schemas. 
+
+---- 
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
